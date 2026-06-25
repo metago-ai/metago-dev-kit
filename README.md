@@ -73,6 +73,18 @@ MetaGO Lifeform Kit (22 核心技能)
 
 Dev Kit 是产品矩阵**产品线 A（垂直场景包）**的第一个产品，遵循战略规划第2阶段 Week 4 的交付要求。
 
+### 完整产品矩阵
+
+| 产品 | 类型 | 描述 |
+|------|------|------|
+| [Lifeform Kit](https://gitee.com/metago/metagolifeform) | 核心包 | 22核心+4Dev Kit技能，7平台支持 |
+| **Dev Kit**（本产品） | 垂直包 | 开发者增强包（8技能） |
+| [MCP Server](https://www.npmjs.com/package/@metago-ai/mcp-server) | 平台工具 | 22 tools + 8 prompts MCP服务 |
+| [CLI](https://gitee.com/metago/metago-cli) | 平台工具 | 跨平台命令行工具 |
+| [Studio](https://gitee.com/metago/metago-studio) | 平台工具 | 可视化技能编排平台 |
+| [Skills SDK](https://gitee.com/metago/skills-sdk) | 生态基础设施 | TypeScript技能开发SDK |
+| [Skills Hub](https://gitee.com/metago/skills-hub) | 生态基础设施 | 技能市场 |
+
 ## 使用示例
 
 安装后，在 Trae / Claude Code / Cursor 等平台中，AI 会自动识别并调用这些技能：
