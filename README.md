@@ -84,6 +84,7 @@ Dev Kit 是产品矩阵**产品线 A（垂直场景包）**的第一个产品，
 | [Studio](https://gitee.com/metago/metago-studio) | 平台工具 | 可视化技能编排平台 |
 | [Skills SDK](https://gitee.com/metago/skills-sdk) | 生态基础设施 | TypeScript技能开发SDK |
 | [Skills Hub](https://gitee.com/metago/skills-hub) | 生态基础设施 | 技能市场 |
+| [Certify](https://gitee.com/metago/certify) | 生态基础设施 | 技能认证体系（Gold/Silver） |
 
 ## 使用示例
 
