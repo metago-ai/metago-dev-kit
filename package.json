@@ -1,0 +1,56 @@
+{
+  "name": "@metago-ai/dev-kit",
+  "version": "1.0.0",
+  "description": "MetaGO Dev Kit - 开发者垂直场景增强包，叠加 4 个开发专用技能（深度代码审查、架构设计、重构建议、安全审计）。需配合 metago-lifeform 核心包使用。",
+  "license": "MIT",
+  "author": "MetaGO Lightyear",
+  "homepage": "https://gitee.com/metago/metago-dev-kit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitee.com/metago/metago-dev-kit.git"
+  },
+  "bugs": {
+    "url": "https://gitee.com/metago/metago-dev-kit/issues"
+  },
+  "keywords": [
+    "metago",
+    "dev-kit",
+    "developer",
+    "code-review",
+    "architecture",
+    "refactor",
+    "security",
+    "ai-skills",
+    "lifeform"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "skills/",
+    "scripts/",
+    "README.md",
+    "LICENSE"
+  ],
+  "metago": {
+    "type": "vertical-kit",
+    "vertical": "developer",
+    "reusedSkills": [
+      "metago-decision-lock",
+      "metago-critique",
+      "metago-fact-check",
+      "metago-problem-trace"
+    ],
+    "addedSkills": [
+      "metago-code-review-deep",
+      "metago-architecture-design",
+      "metago-refactor-suggest",
+      "metago-security-audit"
+    ],
+    "totalSkills": 8,
+    "parentPackage": "metago-lifeform@>=36.4.3"
+  },
+  "peerDependencies": {
+    "metago-lifeform": ">=36.4.3"
+  }
+}
