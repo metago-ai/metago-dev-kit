@@ -4,7 +4,7 @@
 
 - 操作系统：
 - Node.js 版本：
-- MetaGO Dev Kit 版本：1.0.1
+- MetaGO Dev Kit 版本：1.0.2
 - 安装方式（npm / git clone）：
 
 ## 问题描述
