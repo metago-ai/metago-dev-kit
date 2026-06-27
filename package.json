@@ -48,9 +48,9 @@
       "metago-security-audit"
     ],
     "totalSkills": 8,
-    "parentPackage": "metago-lifeform@>=36.4.11"
+    "parentPackage": "metago-lifeform@>=36.4.12"
   },
   "peerDependencies": {
-    "metago-lifeform": ">=36.4.3"
+    "metago-lifeform": ">=36.4.12"
   }
 }
