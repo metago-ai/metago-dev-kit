@@ -1,4 +1,4 @@
-﻿# MetaGO Dev Kit
+# MetaGO Dev Kit
 
 > 开发者垂直场景增强包 — 让 AI 在编程领域变专业
 >
@@ -16,7 +16,7 @@
 
 ### 🔄 复用核心技能（4 个）
 
-来自 `metago-lifeform@>=36.4.12`，开发者场景下高频调用：
+来自 `metago-lifeform@>=36.4.13`，开发者场景下高频调用：
 
 | 技能 | 作用 | 开发场景价值 |
 |------|------|-------------|
@@ -42,7 +42,7 @@ Dev Kit 独有，专为编程场景设计：
 
 ### 前置条件
 
-必须先安装 [MetaGO Lifeform Kit](https://gitee.com/metago/metagolifeform) v36.4.12 或更高版本：
+必须先安装 [MetaGO Lifeform Kit](https://gitee.com/metago/metagolifeform) v36.4.13 或更高版本：
 
 ```powershell
 git clone https://gitee.com/metago/metagolifeform.git
@@ -114,7 +114,7 @@ AI：[自动调用 metago-architecture-design]
 
 - **格式标准**：每个技能为 `SKILL.md` 文件，YAML frontmatter + Markdown 正文
 - **兼容平台**：Trae / Claude Code / Codex / Cursor / CodeBuddy / Qoder / ZCode（7 大平台）
-- **依赖**：`metago-lifeform@>=36.4.12`（peerDependency）
+- **依赖**：`metago-lifeform@>=36.4.13`（peerDependency）
 - **许可证**：MIT
 
 ## 相关链接
